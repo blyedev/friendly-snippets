@@ -17,7 +17,9 @@
                 "path": "./snippets/global.json"
             },
             {
-                "language": ["license"],
+                "language": [
+                    "license"
+                ],
                 "path": "./snippets/license.json"
             },
             {
@@ -37,7 +39,10 @@
                 "path": "./snippets/cpp/cppdoc.json"
             },
             {
-                "language": ["csharp", "cs"],
+                "language": [
+                    "csharp",
+                    "cs"
+                ],
                 "path": "./snippets/csharp/csharp.json"
             },
             {
@@ -49,7 +54,10 @@
                 "path": "./snippets/editorconfig.json"
             },
             {
-                "language": ["gitcommit", "NeogitCommitMessage"],
+                "language": [
+                    "gitcommit",
+                    "NeogitCommitMessage"
+                ],
                 "path": "./snippets/gitcommit.json"
             },
             {
@@ -69,7 +77,10 @@
                 "path": "./snippets/elixir.json"
             },
             {
-                "language": ["eelixir", "heex"],
+                "language": [
+                    "eelixir",
+                    "heex"
+                ],
                 "path": "./snippets/eelixir.json"
             },
             {
@@ -189,7 +200,12 @@
                 "path": "./snippets/systemverilog.json"
             },
             {
-                "language": ["shellscript", "shell", "sh", "zsh"],
+                "language": [
+                    "shellscript",
+                    "shell",
+                    "sh",
+                    "zsh"
+                ],
                 "path": "./snippets/shell/shell.json"
             },
             {
@@ -197,11 +213,17 @@
                 "path": "./snippets/shell/shelldoc.json"
             },
             {
-                "language": ["markdown", "rmd"],
+                "language": [
+                    "markdown",
+                    "rmd"
+                ],
                 "path": "./snippets/markdown.json"
             },
             {
-                "language": ["plaintex", "tex"],
+                "language": [
+                    "plaintex",
+                    "tex"
+                ],
                 "path": "./snippets/latex.json"
             },
             {
@@ -238,11 +260,22 @@
                 "path": "./snippets/html.json"
             },
             {
-                "language": ["css", "scss", "sass", "less", "stylus"],
+                "language": [
+                    "css",
+                    "scss",
+                    "sass",
+                    "less",
+                    "stylus"
+                ],
                 "path": "./snippets/css.json"
             },
             {
-                "language": ["javascript", "javascriptreact", "vue", "svelte"],
+                "language": [
+                    "javascript",
+                    "javascriptreact",
+                    "vue",
+                    "svelte"
+                ],
                 "path": "./snippets/javascript/javascript.json"
             },
             {
@@ -254,7 +287,10 @@
                 "path": "./snippets/javascript/tsdoc.json"
             },
             {
-                "language": ["typescript", "typescriptreact"],
+                "language": [
+                    "typescript",
+                    "typescriptreact"
+                ],
                 "path": "./snippets/javascript/typescript.json"
             },
             {
@@ -282,7 +318,10 @@
                 "path": "./snippets/javascript/react-native-ts.json"
             },
             {
-                "language": ["javascriptreact", "typescriptreact"],
+                "language": [
+                    "javascriptreact",
+                    "typescriptreact"
+                ],
                 "path": "./snippets/javascript/react-es7.json"
             },
             {
@@ -298,40 +337,12 @@
                 "path": "./snippets/svelte.json"
             },
             {
-                "language": "vue",
-                "path": "./snippets/frameworks/vue/html.json"
-            },
-            {
-                "language": "vue",
-                "path": "./snippets/frameworks/vue/nuxt-html.json"
-            },
-            {
-                "language": "vue",
-                "path": "./snippets/frameworks/vue/nuxt-script.json"
-            },
-            {
-                "language": "vue",
-                "path": "./snippets/frameworks/vue/script.json"
-            },
-            {
-                "language": "vue",
-                "path": "./snippets/frameworks/vue/vue.json"
-            },
-            {
-                "language": "vue",
-                "path": "./snippets/frameworks/vue/style.json"
-            },
-            {
-                "language": "angular",
+                "language": "angular-html",
                 "path": "./snippets/frameworks/angular/html.json"
             },
             {
-                "language": "angular",
+                "language": "angular-ts",
                 "path": "./snippets/frameworks/angular/typescript.json"
-            },
-            {
-                "language": "angular",
-                "path": "./snippets/frameworks/angular/jsonc.json"
             },
             {
                 "language": "python",
@@ -378,7 +389,10 @@
                 "path": "./snippets/frameworks/django/views.json"
             },
             {
-                "language": ["djangohtml", "htmldjango"],
+                "language": [
+                    "djangohtml",
+                    "htmldjango"
+                ],
                 "path": "./snippets/frameworks/djangohtml.json"
             },
             {
@@ -422,15 +436,24 @@
                 "path": "./snippets/kotlin/kdoc.json"
             },
             {
-                "language": ["plaintex", "tex"],
+                "language": [
+                    "plaintex",
+                    "tex"
+                ],
                 "path": "./snippets/latex/latex-snippets.json"
             },
             {
-                "language": ["plaintex", "tex"],
+                "language": [
+                    "plaintex",
+                    "tex"
+                ],
                 "path": "./snippets/latex/vscode-latex-snippets.json"
             },
             {
-                "language": ["bibtex", "bib"],
+                "language": [
+                    "bibtex",
+                    "bib"
+                ],
                 "path": "./snippets/latex/bibtex.json"
             },
             {
@@ -454,7 +477,10 @@
                 "path": "./snippets/frameworks/blade/snippets.json"
             },
             {
-                "language": ["r", "rmd"],
+                "language": [
+                    "r",
+                    "rmd"
+                ],
                 "path": "./snippets/r.json"
             },
             {
@@ -530,7 +556,10 @@
                 "path": "./snippets/frameworks/edge.json"
             },
             {
-                "language": ["powershell", "ps1"],
+                "language": [
+                    "powershell",
+                    "ps1"
+                ],
                 "path": "./snippets/PowerShell.json"
             },
             {
@@ -577,22 +606,21 @@
                 "path": "./snippets/beancount.json"
             },
             {
-                 "language": "rst",
-                 "path": "./snippets/rst.json"
+                "language": "rst",
+                "path": "./snippets/rst.json"
             },
             {
-                 "language": "loremipsum",
-                 "path": "./snippets/loremipsum.json"
+                "language": "loremipsum",
+                "path": "./snippets/loremipsum.json"
             },
-						{
-							"language": "cmake",
-							"path": "./snippets/cmake.json"
-						},
             {
-                 "language": "zig",
-                 "path": "./snippets/zig.json"
+                "language": "cmake",
+                "path": "./snippets/cmake.json"
+            },
+            {
+                "language": "zig",
+                "path": "./snippets/zig.json"
             }
         ]
     }
 }
-
